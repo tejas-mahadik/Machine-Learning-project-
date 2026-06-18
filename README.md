@@ -151,11 +151,8 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tejas Mahadik**
 
-LinkedIn: www.linkedin.com/in/your-profile
-
-GitHub: https://github.com/yourusername
 
 ---
 
